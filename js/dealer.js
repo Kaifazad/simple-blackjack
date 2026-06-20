@@ -1,0 +1,1 @@
+export class Dealer { constructor() { this.hand = []; } play() {} }

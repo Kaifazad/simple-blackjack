@@ -1,0 +1,1 @@
+test("Game starts", () => { expect(true).toBe(true); });

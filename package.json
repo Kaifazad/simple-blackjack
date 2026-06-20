@@ -1,0 +1,6 @@
+{
+  "name": "simple-blackjack",
+  "version": "1.0.0",
+  "description": "Blackjack game",
+  "scripts": { "start": "serve ." }
+}

@@ -1,0 +1,1 @@
+export class Player { constructor() { this.hand = []; this.chips = 1000; } }

@@ -1,0 +1,1 @@
+export const SUITS = ["Hearts", "Diamonds", "Clubs", "Spades"];

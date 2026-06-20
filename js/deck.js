@@ -1,0 +1,1 @@
+export class Deck { constructor() { this.cards = []; } shuffle() {} }
